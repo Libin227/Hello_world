@@ -1,2 +1,6 @@
 test1
-this is a for master
+<<<<<<< HEAD
+this is a for branch1
+=======
+this is a for branch1
+>>>>>>> branch1
